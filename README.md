@@ -1,8 +1,8 @@
 # AIVirtualMouse
 AI based virtual mouse where the camera detects your hand and it is used as a mouse. Check out below images for more details.
 
-![1](https://user-images.githubusercontent.com/63498645/133000751-18e6bea7-b769-4acb-8922-f4d6a539a9fb.png) 
-Basic outline of how the frame looks like. 
+(https://user-images.githubusercontent.com/63498645/133000751-18e6bea7-b769-4acb-8922-f4d6a539a9fb.png) 
+Basic outline of how the frame looks like. The light blue rectangle is the region of interest where you move your index finger which moves the mouse in your monitor.
 
 ![2](https://user-images.githubusercontent.com/63498645/133000804-9938e852-7531-485e-a1df-3102e8e4813f.png)
 When you only point your index finger up, it enables the movement of the mouse and the tip of your index finger is highlighted with color yellow.
