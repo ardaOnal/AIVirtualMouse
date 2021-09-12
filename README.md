@@ -1,5 +1,5 @@
 # AIVirtualMouse
-AI based virtual mouse where the camera detects your hand and it is used as a mouse. The HandTrackingModule can be used in any application where it requires hand detection. Libraries used were OpenCV for getting the frames and image processing, and Mediapipe for hand detection. Check out below images for more details.
+AI based virtual mouse where the camera detects your hand and it is used as a mouse. The [HandTrackingModule](https://github.com/ardaOnal/AIVirtualMouse/blob/main/HandTrackingModule.py) can be used in any application where it requires hand detection. Libraries used were OpenCV for getting the frames and image processing, and Mediapipe for hand detection. Check out below images for more details.
 
 ![1](https://user-images.githubusercontent.com/63498645/133000751-18e6bea7-b769-4acb-8922-f4d6a539a9fb.png)
 Basic outline of how the frame looks like. The light blue rectangle is the region of interest where you move your index finger which moves the mouse in your monitor.
